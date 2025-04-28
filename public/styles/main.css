@@ -1,0 +1,38 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: blue;
+    padding: 20px;
+    text-align: center;
+}
+
+h1, h2, h3 {
+    color: white;
+}
+
+nav {
+    margin: 20px 0;
+}
+
+nav a {
+    color: blue;
+    text-decoration: none;
+    margin: 0 15px;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+footer {
+    background-color: blue;
+    padding: 10px;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
